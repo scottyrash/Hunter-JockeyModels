@@ -1,0 +1,5 @@
+ENT.Base = "npc_cpt_base"
+ENT.Type = "ai"
+ENT.PrintName = "Jockey"
+ENT.Author = "Cpt. Hazama"
+ENT.Category = "Left 4 Dead 2"
